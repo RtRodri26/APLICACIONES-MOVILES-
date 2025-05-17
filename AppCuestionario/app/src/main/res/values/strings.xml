@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Cuestionario</string>
+    <string name="result_username_placeholder">Jugador: %1$s</string>
+    <string name="result_score_placeholder">Puntaje final: %1$d de %2$d</string>
+</resources>
