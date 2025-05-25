@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Nombre de la clínica pequeño arriba -->
+        <TextView
+            android:id="@+id/tvClinica"
+            android:text="Clínica Robles"
+            android:textSize="14sp"
+            android:textColor="@color/greenPastel"
+            android:textStyle="italic"
+            android:layout_marginBottom="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start" />
+
+        <!-- Foto del doctor (centrada) -->
+        <ImageView
+            android:id="@+id/ivIcono"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Imagen del doctor"
+            android:scaleType="centerCrop"
+            android:background="@drawable/image_border_rounded" />
+
+        <!-- Especialidad -->
+        <TextView
+            android:id="@+id/tvEspecialidad"
+            android:textSize="18sp"
+            android:textColor="@color/greenDark"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start" />
+
+        <!-- Nombre del doctor -->
+        <TextView
+            android:id="@+id/tvNombre"
+            android:textSize="22sp"
+            android:textColor="@color/primaryText"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start" />
+
+        <!-- Botón Volver (centrado) -->
+        <Button
+            android:id="@+id/btnVolver"
+            android:text="Volver"
+            android:backgroundTint="@color/greenPastel"
+            android:textColor="@color/white"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+</ScrollView>

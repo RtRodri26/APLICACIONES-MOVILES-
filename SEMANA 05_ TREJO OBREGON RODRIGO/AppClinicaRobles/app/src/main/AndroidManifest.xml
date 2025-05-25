@@ -1,0 +1,33 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Clinica Robles"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ClinicaRobles">
+
+        <!-- Esta sí existe y la usas para mostrar detalle -->
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false" />
+
+        <!-- Esta sí existe -->
+        <activity
+            android:name=".SpecialtiesActivity"
+            android:exported="false" />
+
+        <!-- Main Activity (lanzadora) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

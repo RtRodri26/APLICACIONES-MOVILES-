@@ -1,0 +1,7 @@
+<resources>
+    <string name="titulo_clinica">CLÍNICA ROBLES</string>
+    <string name="bienvenida_clinica">Bienvenido a la Clínica Robles</string>
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="hint_dni">Ingrese su DNI</string>
+    <string name="btn_ingresar">Ingresar</string>
+</resources>

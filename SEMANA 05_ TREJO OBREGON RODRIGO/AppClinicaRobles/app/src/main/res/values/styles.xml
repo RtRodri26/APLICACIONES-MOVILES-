@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/greenPastel</item>
+        <item name="colorPrimaryVariant">@color/greenPastel</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/greenPastel</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

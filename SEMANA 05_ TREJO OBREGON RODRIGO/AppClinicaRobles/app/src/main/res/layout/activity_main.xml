@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/greenPastel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:text="@string/titulo_clinica"
+        android:textSize="28sp"
+        android:textColor="@color/greenDark"
+        android:textStyle="bold"
+        android:layout_marginBottom="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/bienvenida_clinica"
+        android:textSize="18sp"
+        android:textColor="@color/greenDark"
+        android:layout_marginBottom="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/editNombre"
+        android:hint="@string/hint_nombre"
+        android:backgroundTint="@color/greenDark"
+        android:textColor="@color/greenDark"
+        android:inputType="textPersonName"
+        android:autofillHints="name"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:padding="12dp" />
+
+    <EditText
+        android:id="@+id/editDni"
+        android:hint="@string/hint_dni"
+        android:backgroundTint="@color/greenDark"
+        android:textColor="@color/greenDark"
+        android:inputType="number"
+        android:autofillHints="username"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:padding="12dp" />
+
+    <Button
+        android:id="@+id/btnIngresar"
+        android:text="@string/btn_ingresar"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="@color/greenDark"
+        android:textColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
