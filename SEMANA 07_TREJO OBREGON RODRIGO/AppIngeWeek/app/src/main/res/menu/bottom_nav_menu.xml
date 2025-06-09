@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_agenda"
+        android:title="@string/nav_agenda"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_competencia"
+        android:title="@string/nav_competencia"
+        android:icon="@drawable/ic_competencia" />
+    <item
+        android:id="@+id/nav_seminarios"
+        android:title="@string/nav_seminarios"
+        android:icon="@drawable/ic_seminarios" />
+    <item
+        android:id="@+id/nav_ubicaciones"
+        android:title="@string/nav_ubicaciones"
+        android:icon="@drawable/ic_ubicaciones" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppIngeWeek</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_agenda">Agenda</string>
+    <string name="nav_competencia">Competencia</string>
+    <string name="nav_seminarios">Seminarios</string>
+    <string name="nav_ubicaciones">Ubicaciones</string>
+</resources>
