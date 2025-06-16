@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A7C7E7</color> <!-- Azul pastel -->
+    <color name="colorPrimaryDark">#89AEDC</color>
+    <color name="colorAccent">#F7C59F</color> <!-- Naranja pastel -->
+    <color name="background">#FDFDFD</color>
+    <color name="textPrimary">#333333</color>
+    <color name="buttonColor">#FFE5B4</color> <!-- Melón pastel -->
+</resources>

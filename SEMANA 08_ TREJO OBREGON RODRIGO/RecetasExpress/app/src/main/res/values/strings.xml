@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">RecetasExpress</string>
+
+    <!-- Menú de opciones (AppBar) -->
+    <string name="action_filter">Filtrar Recetas</string>
+    <string name="action_add_recipe">Añadir Receta</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- Menú contextual (pulsación larga) -->
+    <string name="action_save_favorite">Guardar como Favorito</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_view_more">Ver Más</string>
+
+    <!-- Menú emergente (popup) -->
+    <string name="category_desserts">Postres</string>
+    <string name="category_healthy">Saludables</string>
+    <string name="category_quick">Rápidas</string>
+    <string name="category_title">Categorías</string>
+
+</resources>

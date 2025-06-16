@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_filter"
+        android:title="@string/action_filter"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_add_recipe"
+        android:title="@string/action_add_recipe"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="never" />
+</menu>

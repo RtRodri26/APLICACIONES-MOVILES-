@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_save_favorite"
+        android:title="@string/action_save_favorite" />
+
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/action_share" />
+
+    <item
+        android:id="@+id/action_view_more"
+        android:title="@string/action_view_more" />
+</menu>
