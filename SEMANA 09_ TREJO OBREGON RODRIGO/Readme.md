@@ -37,7 +37,7 @@ La aplicación demuestra el uso de **SharedPreferences** para almacenar y recupe
 
 ## 📷 Evidencias
 
-Todas las capturas y explicaciones detalladas están en el documento Word:
+![Image](https://github.com/user-attachments/assets/3a08430f-711a-42df-8838-5d9975c4590a)
 
 👉 **SharedPreferences_Evidencia_TrejoRodrigo_Explicado.docx**
 
