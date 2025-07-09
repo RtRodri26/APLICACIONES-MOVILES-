@@ -54,7 +54,7 @@ La aplicación demuestra el uso de **SharedPreferences** para almacenar y recupe
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/SharedPreferencesApp.git
+   [git clone https://github.com/tu-usuario/SharedPreferencesApp.git](https://github.com/RtRodri26/APLICACIONES-MOVILES-/blob/main/SEMANA%2009_%20TREJO%20OBREGON%20RODRIGO/Readme.md)
    ```
 2. Ábrelo en **Android Studio**.
 3. Conecta un dispositivo o inicia un emulador.
