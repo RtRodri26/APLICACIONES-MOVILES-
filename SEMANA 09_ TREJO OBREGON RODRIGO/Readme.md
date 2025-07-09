@@ -38,6 +38,13 @@ La aplicación demuestra el uso de **SharedPreferences** para almacenar y recupe
 ## 📷 Evidencias
 
 ![Image](https://github.com/user-attachments/assets/3a08430f-711a-42df-8838-5d9975c4590a)
+![Image](https://github.com/user-attachments/assets/a3dfcc5a-cdeb-4c96-8ece-4c9215070814)
+
+![Image](https://github.com/user-attachments/assets/94d5e030-3cd5-4f4e-8327-e14bea139414)
+
+![Image](https://github.com/user-attachments/assets/9e281444-08fb-42bc-8877-de84cbe84f84)
+
+![Image](https://github.com/user-attachments/assets/8e8a1b0f-772a-4cdb-9381-d34a93fe3aec)
 
 👉 **SharedPreferences_Evidencia_TrejoRodrigo_Explicado.docx**
 
