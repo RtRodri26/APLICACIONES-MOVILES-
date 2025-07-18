@@ -37,25 +37,6 @@ Una aplicación sencilla para autenticación de usuarios, permitiendo que se reg
 
 ---
 
-## 🚀 **Instrucciones de Uso**
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/loginapp.git
-   ```
-
-2. **Configura Firebase**:
-   - Ve a la [consola de Firebase](https://console.firebase.google.com/).
-   - Crea un nuevo proyecto y agrega tu aplicación Android.
-   - Descarga el archivo `google-services.json` y agrégalo a tu proyecto en `app/`.
-
-3. **Agrega las dependencias de Firebase**:
-   - Asegúrate de agregar las dependencias necesarias en el archivo `build.gradle` de tu módulo.
-
-4. **Ejecuta la aplicación**:
-   - Conecta tu dispositivo Android o usa un emulador.
-   - Ejecuta la aplicación desde Android Studio.
-
 ---
 
 ## 🔐 **Seguridad**
@@ -66,29 +47,15 @@ Una aplicación sencilla para autenticación de usuarios, permitiendo que se reg
 ## 📸 **Pantallas de la Aplicación**
 
 ### Pantalla de **Inicio de Sesión**:
-![Pantalla de inicio de sesión](file-SwbrYzCQ8ubeSkKscBTRwx.png)
+
+<img width="208" height="462" alt="Image" src="https://github.com/user-attachments/assets/653910a1-4c9a-47d2-90f7-656eccf0ce45" />
 
 ### Pantalla de **Registro**:
-![Pantalla de registro](file-3r6RF2Kvwj9BYGkiECdLCc.png)
+<img width="211" height="460" alt="Image" src="https://github.com/user-attachments/assets/0866f4e6-cd9c-478d-afa7-86ecf33c6099" />
 
-### Pantalla de **Bienvenida**:
-![Pantalla de bienvenida](file-U3umV18P8pe5i3eZhKwEvu.png)
-
-### Pantalla de **Cierre de sesión**:
-![Pantalla de cierre de sesión](file-KnXjo1fNeu4AqST6GE4a3D.png)
+### Pantalla de **Bienvenida y Cierre de sesión**:
+<img width="203" height="461" alt="Image" src="https://github.com/user-attachments/assets/6a993d59-5997-4dfc-8603-23cc9254ceee" />
 
 ---
 
-## 📣 **Contribuciones**
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
-1. **Fork** este repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz **commit** (`git commit -am 'Agrega nueva funcionalidad'`).
-4. Haz **push** a la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un **pull request**.
-
----
-
-## 📝 **Licencia**
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
